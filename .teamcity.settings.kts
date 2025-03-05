@@ -1,4 +1,4 @@
-some change 6
+some change 777777
 
 import jetbrains.buildServer.configs.kotlin.*
 import jetbrains.buildServer.configs.kotlin.buildFeatures.PullRequests
