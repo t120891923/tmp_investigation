@@ -1,4 +1,4 @@
-some change
+some change 2
 
 import jetbrains.buildServer.configs.kotlin.*
 import jetbrains.buildServer.configs.kotlin.buildFeatures.PullRequests
